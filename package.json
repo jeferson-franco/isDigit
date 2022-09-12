@@ -1,0 +1,20 @@
+{
+  "name": "isdigit",
+  "version": "1.0.0",
+  "description": "Determine if the given character is a digit or not.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeferson-franco/isDigit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeferson-franco/isDigit/issues"
+  },
+  "homepage": "https://github.com/jeferson-franco/isDigit#readme"
+}
